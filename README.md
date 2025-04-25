@@ -1,1 +1,2 @@
-# amazon_clone
+# WebProject
+Amazon Clone
